@@ -1,10 +1,10 @@
-# repl.utils
+# repl.utils [![Build Status](https://travis-ci.org/rksm/repl.utils.svg?branch=master)](https://travis-ci.org/rksm/repl.utils)
 
 just some helpers that I inject into my clojure runtime to improve development
 
 ## Usage
 
-For example inject into `clojure.core` with [vinyasa](https://github.com/zcaudate/vinyasa))
+For example inject into `clojure.core` with [vinyasa](https://github.com/zcaudate/vinyasa)
 
 ## License
 
