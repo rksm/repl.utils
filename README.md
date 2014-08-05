@@ -1,4 +1,6 @@
-# repl.utils [![Build Status](https://travis-ci.org/rksm/repl.utils.svg?branch=master)](https://travis-ci.org/rksm/repl.utils)
+# repl.utils [![Build Status](https://travis-ci.org/rksm/repl.utils.svg?branch=master)](https://travis-ci.org/rksm/repl.utils) 
+
+[![Clojars Project](http://clojars.org/rksm/repl.utils/latest-version.svg)](http://clojars.org/rksm/repl.utils)
 
 just some helpers that I inject into my clojure runtime to improve development
 
