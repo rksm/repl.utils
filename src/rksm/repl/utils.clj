@@ -82,4 +82,5 @@
    clojure.core
    [rksm.repl.utils lein search-for-symbol get-stack print-stack dumb-stack traced-fn])
   (lein install)
+  (lein deploy clojars)
   )
