@@ -82,5 +82,7 @@
    clojure.core
    [rksm.repl.utils lein search-for-symbol get-stack print-stack dumb-stack traced-fn])
   (lein install)
+  (lein localrepo coords "target/repl.utils-0.1.0.jar")
+  (lein localrepo install "target/repl.utils-0.1.0.jar" "repl.utils/repl.utils" "0.1.0")
   (lein deploy clojars)
   )
