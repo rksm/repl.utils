@@ -6,6 +6,7 @@
 
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [io.aviso/pretty "0.1.8"]
+                 [org.clojure/tools.trace "0.7.8"]
                  [leiningen #=(leiningen.core.main/leiningen-version)]]
 
   :scm {:url "git@github.com:rksm/repl.utils"}
